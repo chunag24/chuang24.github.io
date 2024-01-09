@@ -62,27 +62,45 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: System Software Developer II
+          company: BlackBerry QNX 
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Ottawa, ON
+          date_start: '2021-09-01'
+          date_end: '2022-04-30'
+          description: |2-
+              Responsibilities include:
+              
+              * Provided expert assistance on QNX-related technical queries and challenges (Networking, USB, Kernel, Hypervisor, IDE,tools), offering tailored recommendations for maximizing the effectiveness of QNX products in diverse projects.
+              * Effectively employed C/C++, in conjunction with the gdb debugger and coredump analysis, to replicate and resolve blocking issues within POSIX-based operating systems emulated by qemu.
+              * Collaborated with QNX engineers, and project managers with bug triage and development issues.
+        - title: Sr. Technical Support Specialist
+          company: ecobee
+          company_url: ''
+          company_logo: org-x
+          location: Toronto, ON
+          date_start: '2020-08-01'
+          date_end: '2020-09-01'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Provided expert assistance on QNX-related technical queries and challenges (Networking, USB, Kernel, Hypervisor, IDE,tools), offering tailored recommendations for maximizing the effectiveness of QNX products in diverse projects.
+              * Effectively employed C/C++, in conjunction with the gdb debugger and coredump analysis, to replicate and resolve blocking issues within POSIX-based operating systems emulated by qemu.
+              * Collaborated with QNX engineers, and project managers with bug triage and development issues.
+        - title: Technical Support Specialist
+          company: Tantalus System Inc.
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Ottawa, ON
+          date_start: '2020-08-01'
+          date_end: '2020-09-01'
+          description: |2-
+              Responsibilities include:
+
+              * Provided expert assistance on QNX-related technical queries and challenges (Networking, USB, Kernel, Hypervisor, IDE,tools), offering tailored recommendations for maximizing the effectiveness of QNX products in diverse projects.
+              * Effectively employed C/C++, in conjunction with the gdb debugger and coredump analysis, to replicate and resolve blocking issues within POSIX-based operating systems emulated by qemu.
+              * Collaborated with QNX engineers, and project managers with bug triage and development issues.
     design:
       columns: '2'
   - block: accomplishments
@@ -98,14 +116,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: https://graduation.udacity.com/confirm/JKM3FCJD
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2021-04-20'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          icon: Udacity
+          organization: Udacity
+          organization_url: https://www.udacity.com
+          title: Flying Car and Autonomous Flight Engineer
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
