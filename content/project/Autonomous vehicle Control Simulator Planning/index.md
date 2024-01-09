@@ -1,6 +1,7 @@
 ---
 title: Simulator Planning Node Breakdown 
 summary: A ros node within the control subteam to plan path in simulated environment. 
+tags: 
   - Robotics 
   - C++
   - ROS 
