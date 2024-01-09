@@ -36,11 +36,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: MEng in Robotics 
+    - course: M.Eng in Aerospace and Robotics 
       institution: University of Toronto Institute for Aerospace Studies
       year: 2023
     
-    - course: BEng in Aerospace Engineering
+    - course: B.Eng in Aerospace Engineering
       institution: Carleton University
       year: 2019
 
@@ -57,7 +57,7 @@ skills:
       - name: C/C++
         description: ''
         percent: 80
-        icon: C++
+        icon: C
         icon_pack: fas
       - name: SQL
         description: ''
@@ -67,12 +67,12 @@ skills:
       - name: Shell Scripting
         description: ''
         percent: 80
-        icon: bash
+        icon: shell
         icon_pack: fas
       - name: Matlab/Simulink
         description: ''
         percent: 80
-        icon: bash
+        icon: matlab
         icon_pack: fas
       - name: ROS/ROS2
         description: ''
@@ -108,15 +108,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
