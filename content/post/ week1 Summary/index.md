@@ -191,6 +191,34 @@ When opening files in C using the fopen() function, r+ and a are two different f
 - a Mode: This is an append mode. If the file exists, writing operations append data at the end of the file without overwriting existing content. If the file does not exist, a new file is created. In a mode, the file is always opened in an appending way, meaning the file pointer is automatically placed at the end of the file.
  
 
+# 操作系统
+
+1. Basic Components of an operating system 
+- Process management (process scheduling, creation, termination)
+- Memory managemnet  (Memory allocation for process )
+- File System Management (Create files, deletion, access control)
+- I/O System management  (I/O devices, and input and output operations.)
+
+2. Process communication
+- Pipes: Allow processes to communicate in a producer-consumer manner. 
+- Message Queues: Enable processes to send and receive messages 
+- Shared Memory: Processes share a common memory area 
+- Sockets: Used for communication over a network
+- Signals: used for simple notifications to processess 
+
+3. What is a deadlock? How to prevent it from happenening?
+- Deadlock is a situation where two or more processes are unable to proceed since each is waiting for the other to release resources. 
+- Conditions: Mutual Exclusion, Hold and wait, no preemption, circular wait. 
+- Prevention: Avoid one or more of the necessary conditions. 
+
+4. Process State Transition Diagram
+- New -> Ready -> Running -> Waiting -> Terminated
+
+5. Types of Resource competition among Processess: 
+- CPU cycles: Competing for processor time 
+- Memory space: Competing for physical and virtual memory
+- I/O devices: Competing for input/oupput devices 
+- Files: Competing for file access 
 
 
 
