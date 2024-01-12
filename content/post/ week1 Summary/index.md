@@ -33,8 +33,7 @@ authors:
 tags:
   - Academic
  
-categories:
-  - Demo
+
   
 ---
  
