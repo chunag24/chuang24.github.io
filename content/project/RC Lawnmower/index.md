@@ -12,7 +12,11 @@ date: "2016-04-27T00:00:00Z"
 
  
 ---
+https://sdr-files.s3.us-east-2.amazonaws.com/Manuals/TP-261-000%20Lawn%20Mower%20Assembly%20WheelChair%20Motors.pdf
 
+https://www.superdroidrobots.com/uses/lawn-and-snow-robots/
+
+https://macsources.medium.com/how-to-build-a-remote-controlled-lawnmower-never-push-a-mower-again-macsources-8c6d2586faa4
 ### 执行摘要
 本商业计划提议启动一家专注于将北美现有的住宅草坪割草机转变为遥控（RC）割草机的创业公司。我们的主要销售产品将是一个RC改装套件，其中包括电机、电池、遥控器和接收器、电机控制器、万向轮和电机支架。这项创新旨在通过使草坪维护更加高效、便利和愉快来革新草坪维护。目标是进入现有割草机所有者的市场，为他们提供增强设备功能和可用性的升级。
 
